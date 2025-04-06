@@ -1,0 +1,5 @@
+# Label mapping
+labels = {
+    "0": "Real",
+    "1": "Fake"
+}
